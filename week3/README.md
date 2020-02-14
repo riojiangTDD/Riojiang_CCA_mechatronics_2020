@@ -1,9 +1,7 @@
-# Riojiang_CCA_DigitalElectronics_2020
+# Week3-Drawing machine
 
-## Week 2
-   
- What I interest project:   
-   
-   This project is about how to make a time machine! This DIY time control machine looks like a glove, and can "stop" any moving subject. First part of this video is about some demonstration and experiments, and second - about how to make this time machine, using Arduino, high-power LED and some tricky magic with soldering iron. You can use this for pranks and demonstration of stroboscopic effect. 
 
-Video link: https://www.youtube.com/watch?v=rj9L1_-AzMc
+## what i want to do 
+For this drawing machine, I want to use the motor to drive the huge brush to draw. And I made this brush with lines of various colors to enrich the colors of the brush. So we can choose to any pigment you want to paint.
+
+In the final work, I chose to use the traditional Chinese strip paper to allow the drawing machine to continuously draw images. When the drawing machine finished the work, I added my own words to form a work of human and machine. So I think that is kind of Human Computer Interaction
