@@ -1,26 +1,33 @@
 # Riojiang_CCA_mechatronics_2020
 # 
-# Week6-7-Avoid obstacle vehicle
- 
- 
- 
-# Week5 
- 
- 
+# Week5-7-Avoid obstacle vehicle
+
 # 
+# 
+# 
+# 
+# 
+# 
+# 
+
 # Week4-Arduino traffic light
+
 🚥🚥🚥
 Through the learning of Arduino, I want to make a traffic light controlled by code. The traffic light can simulate the process of waiting and flashing.
 
+result of exhibition
+👇🏼👇🏼👇🏼
 <p align="center">
 </p >
 <img src = "./week4/traffic_light/traffic%20light%20.gif">
 
-
-
-
-
-
+# 
+# 
+# 
+# 
+# 
+# 
+# 
 
 # Week3-Drawing machine
 
@@ -29,33 +36,29 @@ For this drawing machine, I want to use the motor to drive the huge brush to dra
 
 In the final work, I chose to use the traditional Chinese strip paper to allow the drawing machine to continuously draw images. When the drawing machine finished the work, I added my own words to form a work of human and machine. So I think that is kind of Human Computer Interaction
 
-
+👇🏼👇🏼👇🏼
 <p align="center">
 </p >
 <img src = "./week3/demo.gif">
 
-
+👇🏼👇🏼👇🏼
 <p align="center">
 </p >
 <img src = "./week3/preview1.png">
 
 
-
+👇🏼👇🏼👇🏼
 <p align="center">
 </p >
 <img src = "./week3/preview2.png">
 
 # 
- 
- 
- 
- 
- 
- 
- 
- 
-#
-
+# 
+# 
+# 
+# 
+# 
+# 
 
 # Week2-The Anxiety-buffer machine
 In our daily life, we always have a lot of stress, and when we want to relax, this machine can quickly help people turn stress into motivation
