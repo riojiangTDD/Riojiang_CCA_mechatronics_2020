@@ -1,10 +1,36 @@
 # Riojiang_CCA_mechatronics_2020
 # 
-# Week5-7-Avoid obstacle vehicle
+# Week5-6-Avoid obstacle vehicle
 
 ## ❓what i want to do 
+I want to make a car that can avoid obstacles automatically. It looked like a sweeping robot, and in two weeks I had finished the assembly of the car and the coding of the motor part. In the ancient city of automobile assembly, I choose foam board as its chassis. Other parts I removed from other car models. Now it's a car that can move back and forth and left and right.
 
-# 
+## ❓what i use
+Arduino board 
+Arduino sheild 
+L298N motor drive 
+DCMotor x 4
+Ultrsonic sensor
+Power switch 
+Battery holder
+Led light 
+
+## Circuit 
+Connect the Ultrasonic Sensor, Servo, and L298N to the Arduino Sensor Shield
+
+<p align="center">
+</p >
+<img src = "./week5-6/circuit.png">
+
+##  result of exhibition
+<p align="center">
+</p >
+<img src = "./week5-6/preview.JPG">
+
+<p align="center">
+</p >
+<img src = "./week5-6/preview2.JPG">
+
 # 
 # 
 # 
