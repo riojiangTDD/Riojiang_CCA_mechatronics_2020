@@ -3,6 +3,11 @@
 
 
 
+
+
+
+
+
 # Week4-Drawing machine
 
 <p align="center">
@@ -24,6 +29,11 @@
 
 
 
+
+
+
+
+
 # Week3-Drawing machine
 
 ## ❓what i want to do 
@@ -35,16 +45,24 @@ In the final work, I chose to use the traditional Chinese strip paper to allow t
 
 
 
+
+
+
+
+
+
 # Week2-The Anxiety-buffer machine
 In our daily life, we always have a lot of stress, and when we want to relax, this machine can quickly help people turn stress into motivation
 
 
 ## Anxiety-buffer machine
+
 result of exhibition
 👇🏼👇🏼👇🏼
 <p align="center">
 </p >
 <img src = "./week2/The%20Anxiety-buffer.gif">
+
 
 motion principle
 👇🏼👇🏼👇🏼
@@ -52,12 +70,15 @@ motion principle
 </p >
 <img src = "./week2/The%20Anxiety-buffer2.gif">
 
-
+preview
+👇🏼👇🏼👇🏼
 <p align="center">
 </p >
 <img src = "./week2/preview.JPG">
 
 
+preview
+👇🏼👇🏼👇🏼
 <p align="center">
 </p >
 <img src = "./week2/preview2.JPG">
