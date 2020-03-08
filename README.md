@@ -1,6 +1,6 @@
 # Riojiang_CCA_mechatronics_2020
 # 
- 
+# Week5-7-Avoid obstacle vehicle
  
  
  
@@ -61,14 +61,14 @@ In our daily life, we always have a lot of stress, and when we want to relax, th
 
 ## Anxiety-buffer machine
 
-result of exhibition
+motion principle
 👇🏼👇🏼👇🏼
 <p align="center">
 </p >
 <img src = "./week2/The%20Anxiety-buffer.gif">
 
 
-motion principle
+result of exhibition
 👇🏼👇🏼👇🏼
 <p align="center">
 </p >
