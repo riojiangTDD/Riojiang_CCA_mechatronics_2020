@@ -2,6 +2,11 @@
 # 
 # Week5-6-Avoid obstacle vehicle
 
+## motor test
+<p align="center">
+</p >
+<img src = "./week5-6/motor test.gif">
+
 ## ❓what i want to do 
 I want to make a car that can avoid obstacles automatically. It looked like a sweeping robot, and in two weeks I had finished the assembly of the car and the coding of the motor part. In the ancient city of automobile assembly, I choose foam board as its chassis. Other parts I removed from other car models. Now it's a car that can move back and forth and left and right.
 
