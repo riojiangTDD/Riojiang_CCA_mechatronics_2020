@@ -1,5 +1,26 @@
 # Riojiang_CCA_mechatronics_2020
 # 
+
+# Week7-Avoid obstacle vehicle / remote control vehicle
+
+During that week I completed the midterm project together with Stella, I mainly responsible for the car model making, circuit connection and the code of car steering and movement. 
+
+<p align="center">
+</p >
+<img src = "./week7/remote_control.gif">
+
+
+
+<p align="center">
+</p >
+<img src = "./week7/car_obstacle.gif">
+
+
+
+
+
+
+
 # Week5-6-Avoid obstacle vehicle
 
 ## motor test
