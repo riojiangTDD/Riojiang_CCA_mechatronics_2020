@@ -8,13 +8,13 @@ During that week I completed the midterm project together with Stella, I mainly 
 result of exhibition
 👇🏼👇🏼👇🏼
 
-## remote_control
+## 🚗remote_control
 <p align="center">
 </p >
 <img src = "./week7/remote_control.gif">
 
 
-## car_obstacle
+## 🚗car_obstacle
 <p align="center">
 </p >
 <img src = "./week7/car_obstacle.gif">
