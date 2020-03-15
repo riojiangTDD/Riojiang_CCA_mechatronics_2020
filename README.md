@@ -3,14 +3,18 @@
 
 # Week7-Avoid obstacle vehicle / remote control vehicle
 
-During that week I completed the midterm project together with Stella, I mainly responsible for the car model making, circuit connection and the code of car steering and movement. 
+During that week I completed the midterm project together with Stella, I mainly responsible for the car model making, circuit connection and the code of car steering and movement. Stella was responsible for writing the program for avoiding obstacles and remote control.
 
+result of exhibition
+👇🏼👇🏼👇🏼
+
+## remote_control
 <p align="center">
 </p >
 <img src = "./week7/remote_control.gif">
 
 
-
+## car_obstacle
 <p align="center">
 </p >
 <img src = "./week7/car_obstacle.gif">
